@@ -45,3 +45,29 @@ This is useful for detecting overflow and underflow conditions.
 ---
 
 ## 📁 Project Structure
+src/ → VHDL source code
+report/ → Project documentation
+
+---
+
+---
+
+## 🧪 Verification
+All operations were verified using simulation.
+Waveforms confirm correct behavior for each control signal.
+
+---
+
+## 👨‍💻 Team Members
+- Elsayed Ashraf Bakry  
+- Mohamed Ayman Elsaygh  
+- Ahmed Bassem AboKila  
+- Omar Ibrahim Elsagan  
+- Mohamed Yasser Samak  
+
+---
+
+## 🏫 Course Information
+**Course:** Digital Systems Design  
+**Faculty:** Engineering – Alexandria University  
+**Academic Year:** 2025–2026
