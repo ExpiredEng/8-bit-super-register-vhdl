@@ -45,8 +45,8 @@ This is useful for detecting overflow and underflow conditions.
 ---
 
 ## 📁 Project Structure
-src/ → VHDL source code
-report/ → Project documentation
+- src/ → VHDL source code
+- report/ → Project documentation
 
 ---
 
